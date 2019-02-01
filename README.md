@@ -1,2 +1,2 @@
 # flog
-An asynchronous C++ file logging library.
+A header-only asynchronous C++ file logging library.
